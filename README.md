@@ -2,7 +2,7 @@
 
 ## Pessoas que participaram desse projeto:
 
-* [ADRIAN JOSÉ DA SILVA](https://github.com/redryun)
+* [ADRIAN JOSÉ DA SILVA](https://github.com/adrjss)
 * BRUNO ANDRADE SILVA
 * DEBORAH BRITO BARBOSA
 * EMERSON DE LIMA
